@@ -386,6 +386,10 @@ pour editer le statu de journaliste ou redaction en chef utiliser le lien(put) :
 api/journalist/ journalisteEdite
 ```
 ![API page](https://github.com/zolomazizi/AngularP2/blob/master/modifier-un-journalist.PNG)
+## Perspectives
+Comme étant des jeunes ambitieux, nous avons biensur des perspectives en espérant que notre site web "Environnement news" soit ergonomique, avec un design attrayant, un contenu utile et intéressant puis avoir la possibilité de l'héberger en ligne pour le rendre plus pratique.
+Enfin, nous espérons que notre travail sera à la hauteur de la confiance qui nous a été accordée.
+
 
 
 
